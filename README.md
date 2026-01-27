@@ -1,24 +1,17 @@
 ﻿# My Portfolio
-# 📌 Project Name
+ ## Hi there 👋 I'm Bhumi
 
-A brief description of what this project does and why it was built.
+💻 Aspiring Developer  
+🌱 Currently learning Web Development  
+🚀 Passionate about building projects  
 
-## 🚀 Features
-- Feature one  
-- Feature two  
-- Feature three  
+### 🛠️ Skills
+- HTML | CSS | JavaScript | Bootstrap  
 
-## 🛠️ Built With
-- HTML  
-- CSS  
-- JavaScript  
+### 📂 My Work
+👉 Check out my repositories below!
 
-## 📷 Screenshot
-![Project Screenshot](./screenshot.png)
-
-## 🔗 Live Demo
-👉 https://project-link.com
-
-## 📁 GitHub Repo
-👉 https://github.com/yourusername/project-name
+### 📬 Connect with Me
+- GitHub: https://github.com/kalyanigujar/portfolio.git
+- LinkedIn: www.linkedin.com/in/kalyani-gujar-939590203
 
