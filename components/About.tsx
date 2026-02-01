@@ -11,7 +11,9 @@ const SkillBar = ({ name, percent }: { name: string; percent: number }) => (
     <div className="h-1.5 w-full bg-zinc-800 rounded-full overflow-hidden">
       <div 
         className="h-full bg-yellow-500 rounded-full transition-all duration-1000" 
-        style={{ width: `${percent}%` }}
+style={{ width: `${percent}%` }}
+
+
       ></div>
     </div>
   </div>
@@ -46,7 +48,7 @@ const About: React.FC = () => {
                 {/* Professional Headshot Placeholder - Fits the description of the provided image */}
                 <div className="w-56 h-72 rounded-3xl overflow-hidden border-2 border-zinc-800 shadow-2xl transition-all duration-500 group-hover:border-yellow-500/50">
                   <img 
-                    src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=800&auto=format&fit=crop" 
+                    src="c:\Users\admin\OneDrive\Pictures\Screenshots\7f15ee34-b34f-4d5a-baf5-8cf400a515f2.jfif" 
                     alt="Kalyani Gujar - Professional Portfolio" 
                     className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   />
